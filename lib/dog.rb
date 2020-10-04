@@ -4,12 +4,10 @@ class Dog
 end 
 end 
 
-class Dog 
   fido = Dog.new 
   fido.bark 
   puts "Woof!"
-end 
-end 
+
 
 class Dog
   def sit 
